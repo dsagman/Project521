@@ -1,0 +1,28 @@
+General
+Complete name                            : /Users/dsagman/Documents/MCS/cs521_Approximate_Programming/Project/audio/Ben Direct Guitar.wav
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+
+Complete name                            : /Users/dsagman/Documents/MCS/cs521_Approximate_Programming/Project/audio/ht1-input_train.wav
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Bit rate                                 : 705.6 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+
+### This one below works
+
+Complete name                            : /Users/dsagman/Documents/MCS/cs521_Approximate_Programming/Project/audio/ts9_test1_in_FP32.wav
+Format                                   : PCM
+Format profile                           : Float
+Codec ID                                 : 3
+Codec ID/Hint                            : IEEE 
+Bit rate                                 : 1 411.2 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 32 bits

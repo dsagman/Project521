@@ -1,0 +1,15 @@
+sftp.json
+.DS_Store
+.venv/
+.data/
+.data/datasets/
+cs447_NLP/runs/
+cs447_NLP/data/
+cs447_NLP/.data/
+.vscode/
+*.gz
+*.tar
+*.zip
+.webppl/
+logs/
+opentuner.db/
