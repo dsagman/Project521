@@ -1,0 +1,1 @@
+Audio files for training. Some are from the internet, some are homemmade. I cited them in the cite.txt file.

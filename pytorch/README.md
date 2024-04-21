@@ -1,0 +1,1 @@
+These are my initial model in pytorch. Later we switched to only developing in tensorflow as it works better with RTNeural.
