@@ -1,4 +1,8 @@
-For ht1 data
+For Blackstar ht1 data
 https://github.com/Alec-Wright/Automated-GuitarAmpModelling/blob/main/Data/test/ht1-target.wav
 
-Ben data provide by Ben McMunn
+
+For tube screamer Data
+https://github.com/GuitarML/GuitarLSTM/tree/main/data
+
+Ben data provide by my guitar teacher Ben McMunn
